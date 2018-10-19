@@ -2,7 +2,8 @@
 
 + 新建demo项目
   + 为测试打包.vue文件，新建一个demo项目：`vue-webpack-demo` , 地址：
-  + 复制前面 `webpack-demo`  项目（地址：https://github.com/andy-love-coding/webpack-deom）中的三个文件`package.json` 、 `package-lock.json` 、`webpack.config.js` ，到新demo项目中`vue-webpack-demo`
+  + 复制前面 `webpack-demo` 项目中的三个文件`package.json` 、 `package-lock.json` 、`webpack.config.js` ，到新demo项目`vue-webpack-demo`中
+    - `webpack-demo` 项目地址为：https://github.com/andy-love-coding/webpack-deom
   + 初始化项目：npm i
   + 安装vue： npm i vue
 
